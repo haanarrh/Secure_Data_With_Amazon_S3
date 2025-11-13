@@ -1,4 +1,4 @@
-# AMAZON SIMPLE STORAGE SERVICE (BUilding and Protecting a static website with Amazon S3 )
+# AMAZON SIMPLE STORAGE SERVICE (Building and Protecting a static website with Amazon S3 )
 ### Lab Overview and objectives
 * In this lab, I will use Amazon Simple Storage Service (Amazon S3) to build a static website and implement architectural best practices to protect and manage data in the cloud.
 
